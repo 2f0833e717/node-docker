@@ -1,14 +1,23 @@
+# 写経リポジトリ
+
+<!-- # Badges -->
+
+[![Github issues](https://img.shields.io/github/issues/2f0833e717/manual)](https://github.com/2f0833e717/manual/issues)
+[![Github forks](https://img.shields.io/github/forks/2f0833e717/manual)](https://github.com/2f0833e717/manual/network/members)
+[![Github stars](https://img.shields.io/github/stars/2f0833e717/manual)](https://github.com/2f0833e717/manual/stargazers)
+[![Github top language](https://img.shields.io/github/languages/top/2f0833e717/manual)](https://github.com/2f0833e717/manual/)
+[![Github license](https://img.shields.io/github/license/2f0833e717/manual)](https://github.com/2f0833e717/manual/)
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
-- [写経リポジトリ](#%E5%86%99%E7%B5%8C%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)
+- [元ネタ](#%E5%85%83%E3%83%8D%E3%82%BF)
 - [command](#command)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# 写経リポジトリ
-元ネタ
+# 元ネタ
 
 [Youtube] [Google自動翻訳]
 
