@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/2f0833e717/node-docker#readme",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
+    "bcryptjs": "^3.0.0",
     "express": "^4.20.0",
     "mongoose": "^8.9.5"
   },
